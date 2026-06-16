@@ -1,7 +1,9 @@
 <h1 align="center">🌟 My Name Page 🌟</h1>
 
-Live link :-
+<p align= "center"> 
+  Live link :-
 👉https://anupamguptaji123-droid.github.io/my-name-page/
+</p>
 
 
 <p align="center">
@@ -61,8 +63,6 @@ my-name-page
 <img width="1223" height="667" alt="image" src="https://github.com/user-attachments/assets/886d5762-19d8-420f-8c8b-9376963734b3" />
 
 </p>
-
-> Replace the image link above with your own screenshot.
 
 
 # ⚡ Getting Started
