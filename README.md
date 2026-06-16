@@ -1,5 +1,9 @@
 <h1 align="center">🌟 My Name Page 🌟</h1>
 
+Live link :-
+👉https://anupamguptaji123-droid.github.io/my-name-page/
+
+
 <p align="center">
   A simple and stylish webpage created using HTML and CSS.
 </p>
@@ -53,8 +57,9 @@ my-name-page
 
 # 📷 Project Screenshot
 
-<p align="center">
-<img width="900" src="https://via.placeholder.com/900x400/0D1117/FFFFFF?text=My+Name+Page+Screenshot">
+<p align="">
+<img width="1223" height="667" alt="image" src="https://github.com/user-attachments/assets/886d5762-19d8-420f-8c8b-9376963734b3" />
+
 </p>
 
 > Replace the image link above with your own screenshot.
