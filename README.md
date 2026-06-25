@@ -7,7 +7,7 @@
 
 
 <p align="center">
-  A simple and stylish webpage created using HTML and CSS.
+  A simple and stylish webpage created using HTML and CSS. 
 </p>
 
 <p align="center">
