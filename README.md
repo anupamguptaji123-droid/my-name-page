@@ -24,7 +24,7 @@
 It helps in learning:
 
 - 🏗 HTML Structure
-- 🎨 CSS Styling
+- 🎨 CSS Styling 
 - 🌈 Colors and Design
 - 📱 Responsive Layout Basics
 
